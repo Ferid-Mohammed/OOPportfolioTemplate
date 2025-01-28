@@ -13,6 +13,12 @@ This week you are going to undertake some simple development work which should a
 
 Start the your IDE.
 
+To Watch:
+
+https://leedsbeckettreplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a1ed8ad3-1247-4025-8b52-acd000def76a
+
+http://leedsbeckettreplay.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5e78fd9d-27df-4ce4-b34b-ae24010fb3d6
+
 
 ## Programming Projects:
 
